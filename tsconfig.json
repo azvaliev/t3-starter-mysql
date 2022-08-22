@@ -22,6 +22,6 @@
     "**/*.ts",
     "**/*.tsx",
     "**/*.js"
-, "src/pages/_app.jsx"  ],
+, "src/pages/_app.jsx", "src/pages/index.jsx"  ],
   "exclude": ["node_modules"]
 }
